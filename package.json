@@ -4,7 +4,7 @@
   "description": "",
   "main": "Develop/server/server.js",
   "scripts": {
-    "start": "cd Develop/server && node server.js"
+    "start": "cd Develop && npm start"
   },
   "repository": {
     "type": "git",
